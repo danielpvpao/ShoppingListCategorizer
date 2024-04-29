@@ -76,6 +76,8 @@ function CreateCategoryOptions(){
     optionOutros.value = 'Outros';
     optionOutros.textContent = 'Outros'
     Categoryselect.appendChild(optionOutros);
+
+    
     Categoryselect.addEventListener('change', function() {
         handleCategoryChange(this.value);
     });

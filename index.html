@@ -12,16 +12,23 @@
 <body>
     <div id="container">
         <div id="Category"></div>
-        Lista de compras:
-        <button onclick="Createinput()">+</button>
-        <button onclick="GetValue(),RemoveElement(),displayArrays()">SET</button>
-        <button id="Deletebutton" onclick="DeletelastElementOfArrays()">X</button>
-        <div id="Frutas">Frutas:</div>
-        <div id="Laticínios">Laticínios:</div>
-        <div id="Congelados">Congelados:</div>
-        <div id="Doces">Doces:</div>
-        <div id="Legumes">Legumes:</div>
-        <div id="Outros">Outros:</div>
+        <div id="Header">
+            Lista de compras:
+            <nav id="OperationButtons">
+            <button onclick="Createinput()">+</button>
+            <button onclick="GetValue(),RemoveElement(),displayArrays()">SET</button>
+            <button id="Deletebutton" onclick="DeletelastElementOfArrays()">X</button>
+        </nav>
+        </div>
+        <div id="container2">
+            <div id="Frutas">Frutas:</div>
+            <div id="Laticínios">Laticínios:</div>
+            <div id="Congelados">Congelados:</div>
+            <div id="Doces">Doces:</div>
+            <div id="Legumes">Legumes:</div>
+            <div id="Outros">Outros:</div>
+        </div>
+        </div>
     </div>
     <script src="./index.js"></script>
 </body>
