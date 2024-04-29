@@ -1,1 +1,1 @@
-https://github.com/danielpvpao/ShoppingListCategorizer/assets/96553464/92abc759-ad8d-4a69-bda0-0c1eb45747db
+![chrome-capture-2024-4-29 (1)](https://github.com/danielpvpao/ShoppingListCategorizer/assets/96553464/8f2bd710-e54d-4ce6-9a99-2476b7e27b34)
