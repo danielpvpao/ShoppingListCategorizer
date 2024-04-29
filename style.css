@@ -54,7 +54,7 @@ button{
 }
 #Header{
     display: flex;
-    gap: 6rem;
+    gap: 11vw;
     font-size: 1.3rem;
     text-wrap: nowrap;
 }
@@ -64,8 +64,8 @@ button{
     border: 1px solid black;
 }
 #OperationButtons{
-    width: 50%;
-    gap: 15px;
+    width: 10%;
+    gap: 20px;
     display: flex;
 }
 button{
